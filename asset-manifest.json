@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Movies-info-react/static/css/main.ba2597af.css",
+    "main.js": "/Movies-info-react/static/js/main.62dc8681.js",
+    "static/media/abstract.png": "/Movies-info-react/static/media/abstract.dde5d61365280fec4663.png",
+    "static/media/women.png": "/Movies-info-react/static/media/women.6d3a97e7d974d52c778a.png",
+    "static/media/noimage.png": "/Movies-info-react/static/media/noimage.d6af1e25e4de5b931a59.png",
+    "static/media/moviesinfo.svg": "/Movies-info-react/static/media/moviesinfo.6a326c1876ef9e1274793b0c109c3b36.svg",
+    "index.html": "/Movies-info-react/index.html",
+    "main.ba2597af.css.map": "/Movies-info-react/static/css/main.ba2597af.css.map",
+    "main.62dc8681.js.map": "/Movies-info-react/static/js/main.62dc8681.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba2597af.css",
+    "static/js/main.62dc8681.js"
+  ]
+}
