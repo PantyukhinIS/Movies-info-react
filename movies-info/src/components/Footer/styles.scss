@@ -1,0 +1,29 @@
+.mainFooter {
+    background-color: #3a3a3a;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    .contentFooter {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 1230px;
+        padding: 57px 0;        
+        div {
+            font-size: 20px;
+            font-weight: 400;
+            .small {
+                font-size: 18px;
+                font-weight: 700;
+                text-align: right;
+            }
+        }
+        .author {
+                font-weight: 700;
+                text-align: right;
+        }
+    }
+}

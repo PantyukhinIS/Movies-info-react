@@ -1,0 +1,21 @@
+.mainHeader {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 55px;
+    margin-bottom: 81px;
+    align-items: center;
+
+    nav {
+        a {
+            margin-left: 60px;
+            font-size: 20 px;
+            font-weight: 400;
+            &.linkActive {
+                color: #E59C9C;
+            }
+            &:first-child {
+                margin-left: 0;
+            }
+        }
+    }
+}

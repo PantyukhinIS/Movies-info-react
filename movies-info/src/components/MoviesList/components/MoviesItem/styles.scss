@@ -1,0 +1,45 @@
+.moviesItem {
+    max-height: 229px;
+    max-width: 509px;
+    width: 509px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    margin-right: 32px;
+    color: #333333;
+    cursor: pointer;
+    transition: all 0.2ms ease-in-out;
+    text-decoration: none;
+    &:hover {
+        background-color: #f6f7f7;
+        .name {
+            background-color: #004fec;
+            color: #fff;
+        }
+    }
+    .itemWrapper {
+        display: flex;
+        justify-content: left;
+        .image {
+            margin-right: 43px;
+            img {
+                height: 229px;
+                width: 185px;
+                border-radius: 20px;
+            }
+        }
+        .text {
+            .name {
+            font-size: 20px;
+            font-weight: 600;
+            margin-bottom: 57px;
+            transition: all 0.2ms ease-in-out;
+            text-transform: uppercase;
+            }
+        .category {
+            font-size: 16px;
+            font-weight: 400;
+            }
+        }
+    }
+}

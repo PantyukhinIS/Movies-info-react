@@ -1,0 +1,22 @@
+.aboutUs {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 90px;
+    margin-bottom: 254px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    color: #3a3a3a;
+    .info {
+        padding-left: 47px;
+        .titleText {
+            font-size: 30px;
+            font-weight: 700;
+            margin-bottom: 15px;
+        }
+        img {
+            width: 409px;
+            height: 272px;
+        }
+    }
+    
+}

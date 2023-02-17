@@ -1,0 +1,12 @@
+.moviesMainList {
+    background-color: #FFFFFF;
+    padding: 40px 90px;
+    border-radius: 20px;
+    margin-bottom: 100px;
+    .mainListWrapper {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        margin-right: -110px;
+    }
+}

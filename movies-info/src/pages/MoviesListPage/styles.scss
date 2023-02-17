@@ -1,0 +1,18 @@
+.moviesListPage {
+    text-align: left;
+    background-color: #FFFFFF;
+    color: #333333;
+    border-radius: 20px;
+    margin-bottom: 254px;
+    padding: 40px 90px;
+    .titleCategory {
+        margin-bottom: 50px;
+        font-size: 30px;
+        font-weight: 400;
+        .category {
+            color: #E59C9C;
+            font-weight: 700;
+            margin-left: 35px;
+        }
+    }
+}
